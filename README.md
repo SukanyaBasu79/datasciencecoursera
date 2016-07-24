@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is part of my Course Project for the Data Science Course titled 'The Data Scientist's Toolbox'.
+This is part of my course project for the Data Science course titled 'The Data Scientist's Toolbox'.
